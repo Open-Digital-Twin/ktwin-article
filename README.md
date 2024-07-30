@@ -12,7 +12,7 @@ KTWIN is a Digital Twin platform built on top of Kubernetes and powered by Knati
 - [MQTT Devices](https://github.com/Open-Digital-Twin/ktwin-smart-cities-devices)
 - [KTWIN Dispatchers](https://github.com/Open-Digital-Twin/ktwin-dispatchers)
 - [Event Store](https://github.com/Open-Digital-Twin/ktwin-event-store)
-- [Graph Store](https://github.com/Open-Digital-Twin/ktwin-graph-store)
+- [Graph Cache](https://github.com/Open-Digital-Twin/ktwin-graph-cache)
 - [KTWIN Smart Cities CRDs](https://github.com/Open-Digital-Twin/ktwin-smart-cities-devices)
 - [Original DTDL Spec Files](https://github.com/Open-Digital-Twin/ktwin-opendigitaltwins-smartcities)
 
