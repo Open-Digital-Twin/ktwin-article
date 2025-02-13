@@ -18,7 +18,7 @@ KTWIN is a Digital Twin platform built on top of Kubernetes and powered by Knati
 
 ## Referencing and Citation
 
-This is the repository for the [article](https://arxiv.org/abs/2408.01635) "KTWIN: A Serverless Kubernetes-based Digital Twin Platform". Kindly note that this paper is currently under submission for peer review. This repo will be updated as soon as the review process is completed.
+For academic work referencing and citation please read our [paper](https://doi.org/10.1016/j.comnet.2025.111095) "KTWIN: A serverless Kubernetes-based Digital Twin platform" published at Computer Networks, Volume 259, 2025, ISSN 1389-1286. https://doi.org/10.1016/j.comnet.2025.111095
 
 ### Abstract
 
